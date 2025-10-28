@@ -1,0 +1,74 @@
+[
+  {
+    "skillId": 1,
+    "skillName": "Beginner Guitar Lessons",
+    "providerName": "Alex Martin",
+    "providerEmail": "alex@skillswap.com",
+    "price": 20,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Acoustic guitar classes for complete beginners.",
+    "image": "https://i.postimg.cc/3JvRnnTq/guitar.png",
+    "category": "Music"
+  },
+  {
+    "skillId": 2,
+    "skillName": "Spoken English Practice",
+    "providerName": "Sara Hossain",
+    "providerEmail": "sara@skillswap.com",
+    "price": 10,
+    "rating": 4.6,
+    "slotsAvailable": 5,
+    "description": "Conversational English sessions for non-native speakers.",
+    "image": "https://i.postimg.cc/MTzPDR0h/english.png",
+    "category": "Language"
+  },
+  {
+    "skillId": 3,
+    "skillName": "Basic Web Development",
+    "providerName": "Rahul Das",
+    "providerEmail": "rahul@skillswap.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Learn HTML, CSS, and basic JS from scratch.",
+    "image": "https://i.postimg.cc/tCJCrkPw/webdev.png",
+    "category": "Technology"
+  },
+  {
+    "skillId": 4,
+    "skillName": "Yoga for Beginners",
+    "providerName": "Priya Sen",
+    "providerEmail": "priya@skillswap.com",
+    "price": 15,
+    "rating": 4.7,
+    "slotsAvailable": 6,
+    "description": "Gentle yoga sessions for relaxation and flexibility.",
+    "image": "https://i.postimg.cc/NfdtN1f6/yoga.png",
+    "category": "Health"
+  },
+  {
+    "skillId": 5,
+    "skillName": "Cooking Basics",
+    "providerName": "John Lee",
+    "providerEmail": "john@skillswap.com",
+    "price": 18,
+    "rating": 4.5,
+    "slotsAvailable": 5,
+    "description": "Learn essential cooking techniques for daily meals.",
+    "image": "https://i.postimg.cc/L8sVb9gJ/cooking.png",
+    "category": "Cooking"
+  },
+  {
+    "skillId": 6,
+    "skillName": "Photography 101",
+    "providerName": "Emma Clark",
+    "providerEmail": "emma@skillswap.com",
+    "price": 30,
+    "rating": 4.9,
+    "slotsAvailable": 2,
+    "description": "Learn camera basics, lighting, and composition.",
+    "image": "https://i.postimg.cc/WbQWcZtN/photo.png",
+    "category": "Art"
+  }
+]
