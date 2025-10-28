@@ -8,7 +8,7 @@
     "rating": 4.8,
     "slotsAvailable": 3,
     "description": "Acoustic guitar classes for complete beginners.",
-    "image": "https://i.postimg.cc/3JvRnnTq/guitar.png",
+    "image": "https://i.pinimg.com/736x/d7/69/44/d76944c8aab64516de565fec6047dfc9.jpg",
     "category": "Music"
   },
   {
@@ -20,7 +20,7 @@
     "rating": 4.6,
     "slotsAvailable": 5,
     "description": "Conversational English sessions for non-native speakers.",
-    "image": "https://i.postimg.cc/MTzPDR0h/english.png",
+    "image": "https://i.pinimg.com/736x/01/dd/0e/01dd0e60f2051dd19853303cf3eb1501.jpg",
     "category": "Language"
   },
   {
@@ -32,7 +32,7 @@
     "rating": 4.9,
     "slotsAvailable": 4,
     "description": "Learn HTML, CSS, and basic JS from scratch.",
-    "image": "https://i.postimg.cc/tCJCrkPw/webdev.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-NFmiJPjIoJ6_4y7I-gwZo5dTD41GRMYFKQ&s",
     "category": "Technology"
   },
   {
@@ -44,7 +44,7 @@
     "rating": 4.7,
     "slotsAvailable": 6,
     "description": "Gentle yoga sessions for relaxation and flexibility.",
-    "image": "https://i.postimg.cc/NfdtN1f6/yoga.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGnEx2L1QwBqUKHEVNTgHlCnCF114D-TreJw&s",
     "category": "Health"
   },
   {
@@ -56,7 +56,7 @@
     "rating": 4.5,
     "slotsAvailable": 5,
     "description": "Learn essential cooking techniques for daily meals.",
-    "image": "https://i.postimg.cc/L8sVb9gJ/cooking.png",
+    "image": "https://i.harperapps.com/covers/9780470111352/y648.jpg",
     "category": "Cooking"
   },
   {
@@ -68,7 +68,7 @@
     "rating": 4.9,
     "slotsAvailable": 2,
     "description": "Learn camera basics, lighting, and composition.",
-    "image": "https://i.postimg.cc/WbQWcZtN/photo.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCUVSfQSZBdHvnabQrhfZ_jTyPyDglq8datQ&s",
     "category": "Art"
   }
 ]

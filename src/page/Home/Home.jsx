@@ -63,7 +63,7 @@ const Home = () => {
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-6">
           {skills.map((skill) => (
             <div key={skill.skillId} className="card bg-base-100 shadow-xl" data-aos="fade-up">
-              <figure><img src={skill.image} alt={skill.skillName} className="h-48 w-full object-cover" /></figure>
+              <figure><img src={skill.image} alt={skill.skillName} className="h-52  object-cover" /></figure>
               <div className="card-body">
                 <h3 className="card-title">{skill.skillName}</h3>
                 <p>⭐ {skill.rating} | 💲{skill.price}</p>
