@@ -8,7 +8,7 @@ import { IoEye, IoEyeOff, } from 'react-icons/io5';
 
 const Login = () => {
        const auth = useContext(AuthContext);
-  const login = auth?.login;
+  const login = auth?.loginUser;
   const googleLogin = auth?.googleLogin;
   const [showPass, setShowPass] = useState(false);
   const navigate = useNavigate();

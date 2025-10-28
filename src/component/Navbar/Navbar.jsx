@@ -7,8 +7,7 @@ const Navbar = () => {
     const { user, logout } = useContext(AuthContext) || {};
 
     return (
-   <div className="navbar bg-amber-600 px-4">
-     
+<div className="navbar bg-amber-600 px-4">
       <div className="flex-1">
         <Link to="/" className="text-xl font-bold">SkillSwap</Link>
       </div>
