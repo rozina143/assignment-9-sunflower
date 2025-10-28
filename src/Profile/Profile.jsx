@@ -8,7 +8,7 @@ const Profile = () => {
     return <p>Please login to see your profile.</p>;
   }
     return (
-         <div className="p-6 max-w-md mx-auto bg-amber-950 shadow rounded mt-6">
+         <div className="p-6 max-w-md mx-auto bg-amber-950 shadow rounded mt-6  ">
       <h2 className="text-2xl font-bold mb-4">Profile</h2>
       <img
         src={user.photoURL || 'https://via.placeholder.com/150'}
