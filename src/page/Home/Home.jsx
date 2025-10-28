@@ -19,8 +19,8 @@ const Home = () => {
 
 
 <div className="p-4 space-y-12">
-     <div class="carousel w-[700px]">
-  <div id="slide1" class="carousel-item relative  w-[700px]">
+     <div class="carousel w-[360px] md:w-[700px] lg:w-[700px]">
+  <div id="slide1" class="carousel-item relative w-[360px] md:w-[700px] lg:w-[700px]">
     <img
       src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-NFmiJPjIoJ6_4y7I-gwZo5dTD41GRMYFKQ&s"
       class="w-full h-[360px] object-cover " />
@@ -29,7 +29,7 @@ const Home = () => {
       <a href="#slide2" class="btn btn-circle">❯</a>
     </div>
   </div>
-  <div id="slide2" class="carousel-item relative  w-[700px]">
+  <div id="slide2" class="carousel-item relative w-[360px] md:w-[700px] lg:w-[700px]">
     <img
       src="https://i.pinimg.com/736x/01/dd/0e/01dd0e60f2051dd19853303cf3eb1501.jpg"
       class="w-full h-[360px] object-cover" />
@@ -38,7 +38,7 @@ const Home = () => {
       <a href="#slide3" class="btn btn-circle">❯</a>
     </div>
   </div>
-  <div id="slide3" class="carousel-item relative  w-[700px]">
+  <div id="slide3" class="carousel-item relative w-[360px] md:w-[700px] lg:w-[700px]">
     <img
       src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGnEx2L1QwBqUKHEVNTgHlCnCF114D-TreJw&s"
       class="w-full h-[360px] object-cover" />
@@ -47,7 +47,7 @@ const Home = () => {
       <a href="#slide4" class="btn btn-circle">❯</a>
     </div>
   </div>
-  <div id="slide4" class="carousel-item relative  w-[700px]">
+  <div id="slide4" class="carousel-item relative w-[360px] md:w-[700px] lg:w-[700px]">
     <img
       src="https://i.harperapps.com/covers/9780470111352/y648.jpg"
       class="w-full h-[360px] object-cover" />
